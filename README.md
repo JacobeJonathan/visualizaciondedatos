@@ -52,6 +52,21 @@ tipo de gráfico como el de barras porque se llevara más tiempo entenderlo y al
 - No necesariamente hay que hacer correlaciones con ejes, sino también podemos mantener un gráfico único teniendo cuidado de las anotaciones de las burbujas pequeñas; el uso de los colores para cada categoría es fundamental.
 - Que no hacer?
 - No utilizar gráficos 3D y tener cuidado con las anotaciones que no se crucen entre sí o no puedan leer.
+- ![Visualizacio ](/src/burbujas.webp)
+
+### grafica de mapas
+- Es una representación gráfica de datos ubicados geográficamente.
+
+- Qué hacer
+
+- Simplificar nuestra anotaciones
+no tienen que ser representados de manera realistica
+
+- Qué no hacer
+
+- No sobresaturar nuestras anotaciones
+- Esta grafica la realice en el curso de Google Data Studio … tomando los datos de un canal de YouTube en mapa tiene como objetivo mostrar la cantidad de vistas que tiene el canal por cada pais.
+- ![Visualizacio ](/src/mapas.png)
 ```py
 from google.colab import files 
 uploaded = files.upload()
