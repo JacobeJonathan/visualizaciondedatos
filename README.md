@@ -77,3 +77,18 @@ df = pd.read_csv('iris.csv')
 print(df)
 
 ```
+
+## Referencia de visualizaciones
+- https://public.tableau.com/app/discover
+- https://enterprisedna.co/showcase
+- Makeover Monday
+Evento que sucede cada lunes en Twitter (#MakeoverMonday). Es una excelente forma para obtener visualización dentro de la comunidad de Tableau.
+
+- Viz of the Day
+Es la visualización más votada del día por la comunidad. Puedes encontrarla desde tu perfil de Tableau Public.
+
+- Iron Viz
+Para participar debes haber recibido una nominación general de parte de la comunidad. Los participantes de Iron Viz antes participaron en Makeover Monday.
+
+- Kaggle
+Una comunidad en la que se comparte todo tipo de datasets públicos, y en donde puedes compartir proyectos, visualizaciones y análisis de los datasets
